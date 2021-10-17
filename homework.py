@@ -64,7 +64,7 @@ time.sleep(1)
 
 driver.get("https://youtu.be/dQw4w9WgXcQ")
 
-time.sleep(10)
+time.sleep(15)
 
 driver.close()
 
