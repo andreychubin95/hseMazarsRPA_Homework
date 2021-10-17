@@ -62,6 +62,10 @@ time.sleep(1)
 
 # Завершаем сессию
 
+driver.get("https://youtu.be/dQw4w9WgXcQ")
+
+time.sleep(10)
+
 driver.close()
 
 # Находим файл в папке
